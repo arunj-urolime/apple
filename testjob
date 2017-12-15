@@ -1,4 +1,5 @@
  #!/bin/bash
+ 
 echo my name is $name 
 echo im coming from $place
-echo number is $number
+echo my number is $number
